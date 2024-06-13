@@ -1,13 +1,13 @@
-## Hi there,I'm Vidura Malshan Kahandawa 👋
+# Hi there, I'm Vidura Malshan Kahandawa! 👋
 
-<!--
-**Vidura2002/Vidura2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Vidura2002&style=flat-square&color=blue)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+
+I am a passionate web developer with a love for coding and problem-solving. Currently studying as undergraduate student in CSE department at university of Moratuwa
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning html,css,javascript and some frameworks
-- 💬 Ask me about htmls and css
+- 🌱 I’m currently learning on HTML,js,css and some frameworks
 - 📫 How to reach me: viduramalshan185@gmail.com
 - ⚡ Fun fact: interested in cricket and playing flute
 
@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+
 ## 🔗 Connect with Me
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:viduramalshan185@gmail.com)
 
-⭐️ From [Your Name](https://github.com/Vidura2002)
+---
+
+⭐️ From Vidura Malshan(https://github.com/Vidura2002)
