@@ -1,5 +1,4 @@
-# Hi there,👋 
-  # I'm Vidura Malshan Kahandawa! 
+# Hi there,👋 I'm Vidura Malshan Kahandawa! 
 
 
 ## 👨‍💻 About Me
