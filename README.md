@@ -1,6 +1,6 @@
-# Hi there,👋 I'm Vidura Malshan Kahandawa! 
+# Hi there,👋 
+  I'm Vidura Malshan Kahandawa! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vidura2002&style=flat-square&color=blue)
 
 ## 👨‍💻 About Me
 
