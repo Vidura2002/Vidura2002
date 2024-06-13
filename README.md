@@ -19,7 +19,7 @@ I am a passionate web developer with a love for coding and problem-solving. Curr
 
 ## 🔗 Connect with Me
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)(mailto:viduramalshan185@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:viduramalshan185@gmail.com)
 
 ---
 
