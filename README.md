@@ -45,8 +45,8 @@ I am a passionate web developer with a love for coding and problem-solving. Curr
   <div style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="border-radius: 10px;"/>
   </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" style="border-radius: 10px;"/>
+  <div style=" margin-right: 10px;border-radius: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
   </div>
 </p>
 
