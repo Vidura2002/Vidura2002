@@ -16,8 +16,7 @@ I am a passionate web developer with a love for coding and problem-solving. Curr
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,cpp,github,java,py,vscode,js,jquery,php,mysql,react,nodejs,tailwindcss,mongodb&perline=8)](https://skillicons.dev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidura2002&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidura2002&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidura2002&layout=compact&theme=radical)
 
 
 ## 🔗 Connect with Me
