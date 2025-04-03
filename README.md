@@ -5,7 +5,7 @@
 
 I am a passionate web developer with a love for coding and problem-solving. Currently studying as undergraduate student in CSE department at university of Moratuwa
 
-- 🔭 I’m currently working on web development
+- 🔭 I’m currently working on software development
 - 🌱 I’m currently learning on React,Node.js,css and some frameworks
 - 📫 How to reach me: viduramalshan185@gmail.com
 - ⚡ Fun fact: interested in cricket and playing flute
