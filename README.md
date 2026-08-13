@@ -13,7 +13,7 @@ I am a passionate web developer with a love for coding and problem-solving. Curr
 ## 🛠️ Technologies and Tools
 ## Languages, Frameworks, and Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,aws,cpp,github,java,py,vscode,js,next,postgresql,kubernetes,mysql,react,nodejs,docker,tailwindcss,mongodb&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,aws,cpp,github,java,py,vscode,js,next,postgresql,kubernetes,mysql,react,nodejs,docker,tailwindcss,mongodb,springboot,terraform&perline=9)](https://skillicons.dev)
 
 
 ## 🔗 Connect with Me
